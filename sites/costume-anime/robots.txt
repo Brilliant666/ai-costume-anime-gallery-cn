@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://photoai.life/costume-anime/sitemap.xml
